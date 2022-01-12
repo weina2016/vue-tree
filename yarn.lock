@@ -5255,6 +5255,21 @@ pretty-error@^4.0.0:
     lodash "^4.17.20"
     renderkid "^3.0.0"
 
+primeflex@^3.1.2:
+  version "3.1.2"
+  resolved "https://registry.yarnpkg.com/primeflex/-/primeflex-3.1.2.tgz#3d4118d9883fc8d5c35ed56c8c5b2a655ed0fc79"
+  integrity sha512-q63sFNk3KPHSoM4EEEgo0MFTJSQhz4PZpJoQnVa8bcju/N7D8koloF9fniXV8UBlKFQzh0DLr5iFZ4c6FFXO4g==
+
+primeicons@^5.0.0:
+  version "5.0.0"
+  resolved "https://registry.yarnpkg.com/primeicons/-/primeicons-5.0.0.tgz#73a0b6028a77c58a9eeb331ad13aaf085e8451ee"
+  integrity sha512-heygWF0X5HFI1otlZE62pp6ye7sZ8om78J9au2BRkg8O7Y8AHTZ9qKMRzchZUHLe8zUAvdi6hZzzm9XxgwIExw==
+
+primevue@^3.10.0:
+  version "3.10.0"
+  resolved "https://registry.yarnpkg.com/primevue/-/primevue-3.10.0.tgz#518b2030b3a8b91f72eafac9e4a69c41012800e6"
+  integrity sha512-tZwzdg0gVOpohFAzPWuIQ7OoNZ1/g6EcY29xn6KzuZ/p8HDiGmg2ChpTUpPaLIJplD+1FyInIo8uvA4YtRulGg==
+
 process-nextick-args@~2.0.0:
   version "2.0.1"
   resolved "https://registry.npmmirror.com/process-nextick-args/download/process-nextick-args-2.0.1.tgz#7820d9b16120cc55ca9ae7792680ae7dba6d7fe2"
@@ -6147,6 +6162,11 @@ thread-loader@^3.0.0:
     loader-utils "^2.0.0"
     neo-async "^2.6.2"
     schema-utils "^3.0.0"
+
+three@^0.136.0:
+  version "0.136.0"
+  resolved "https://registry.yarnpkg.com/three/-/three-0.136.0.tgz#b1504db021b46398ef468aa7849f3dcabb814f50"
+  integrity sha512-+fEMX7nYLz2ZesVP/dyifli5Jf8gR3XPAnFJveQ80aMhibFduzrADnjMbARXh8+W9qLK7rshJCjAIL/6cDxC+A==
 
 thunky@^1.0.2:
   version "1.1.0"
